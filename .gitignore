@@ -1,0 +1,14 @@
+.DS_Store
+
+# datasets
+*.h5ad
+*.h5
+*.csv
+*.tsv
+
+# generated outputs/figures
+**/outputs/
+**/figs/
+
+# notebook checkpoints
+.ipynb_checkpoints/
